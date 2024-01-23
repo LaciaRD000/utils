@@ -1,4 +1,4 @@
-module usable
+module github.com/LaciaRD000/utils
 
 go 1.21
 
